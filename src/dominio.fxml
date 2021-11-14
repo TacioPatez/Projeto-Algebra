@@ -14,7 +14,7 @@
             <Font name="Times New Roman" size="27.0" />
          </font>
       </Label>
-      <AnchorPane layoutX="35.0" layoutY="109.0" prefHeight="242.0" prefWidth="178.0" style="-fx-background-color: white; -fx-border-color: black; -fx-background-radius: 100; -fx-border-radius: 100;">
+      <AnchorPane layoutX="34.0" layoutY="109.0" prefHeight="242.0" prefWidth="170.0" style="-fx-background-color: white; -fx-border-color: black; -fx-background-radius: 100; -fx-border-radius: 100;">
          <children>
             <Group layoutX="28.0" layoutY="48.0">
                <children>
@@ -52,17 +52,17 @@
                         <Font name="Times New Roman" size="27.0" />
                      </font>
                   </Label>
-                  <TextField disable="true" editable="false" layoutX="18.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="x" fx:id="xDominioTextField1">
+                  <TextField disable="true" editable="false" layoutX="18.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="x" fx:id="x2DominioTextField1">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
                   </TextField>
-                  <TextField fx:id="yDominioTextField1" disable="true" editable="false" layoutX="48.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="y">
+                  <TextField fx:id="y2DominioTextField1" disable="true" editable="false" layoutX="48.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="y">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
                   </TextField>
-                  <TextField fx:id="zDominioTextField1" disable="true" editable="false" layoutX="78.0" layoutY="1.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="z">
+                  <TextField fx:id="z2DominioTextField1" disable="true" editable="false" layoutX="78.0" layoutY="1.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="z">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
@@ -81,17 +81,17 @@
                         <Font name="Times New Roman" size="27.0" />
                      </font>
                   </Label>
-                  <TextField disable="true" editable="false" layoutX="18.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="x" fx:id="xDominioTextField2">
+                  <TextField disable="true" editable="false" layoutX="18.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="x" fx:id="x3DominioTextField2">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
                   </TextField>
-                  <TextField fx:id="yDominioTextField2" disable="true" editable="false" layoutX="48.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="y">
+                  <TextField fx:id="y3DominioTextField2" disable="true" editable="false" layoutX="48.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="y">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
                   </TextField>
-                  <TextField fx:id="zDominioTextField2" disable="true" editable="false" layoutX="78.0" layoutY="1.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="z">
+                  <TextField fx:id="z3DominioTextField2" disable="true" editable="false" layoutX="78.0" layoutY="1.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="z">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
@@ -105,7 +105,7 @@
             </Group>
          </children>
       </AnchorPane>
-      <TextField alignment="CENTER" disable="true" editable="false" layoutX="205.0" layoutY="109.0" prefHeight="27.0" prefWidth="33.0" promptText="x" style="-fx-background-color: white; -fx-border-color: black; -fx-background-radius: 20; -fx-border-radius: 10;" text="R" fx:id="xDominioTextField3">
+      <TextField fx:id="RDominioTextField3" alignment="CENTER" disable="true" editable="false" layoutX="205.0" layoutY="109.0" prefHeight="27.0" prefWidth="33.0" promptText="x" style="-fx-background-color: white; -fx-border-color: black; -fx-background-radius: 20; -fx-border-radius: 10;" text="R">
          <font>
             <Font name="Times New Roman Italic" size="14.0" />
          </font>
@@ -115,7 +115,7 @@
             <Font name="Times New Roman Bold Italic" size="20.0" />
          </font>
       </Label>
-      <AnchorPane layoutX="357.0" layoutY="109.0" prefHeight="242.0" prefWidth="178.0" style="-fx-background-color: white; -fx-border-color: black; -fx-background-radius: 100; -fx-border-radius: 100;">
+      <AnchorPane layoutX="357.0" layoutY="109.0" prefHeight="242.0" prefWidth="170.0" style="-fx-background-color: white; -fx-border-color: black; -fx-background-radius: 100; -fx-border-radius: 100;">
          <children>
             <Group layoutX="28.0" layoutY="48.0">
                <children>
@@ -124,17 +124,17 @@
                         <Font name="Times New Roman" size="27.0" />
                      </font>
                   </Label>
-                  <TextField disable="true" editable="false" layoutX="18.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="x" fx:id="xDominioTextField1">
+                  <TextField disable="true" editable="false" layoutX="18.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="x" fx:id="xIDominioTextField1">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
                   </TextField>
-                  <TextField fx:id="yDominioTextField1" disable="true" editable="false" layoutX="48.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="y">
+                  <TextField fx:id="yIDominioTextField1" disable="true" editable="false" layoutX="48.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="y">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
                   </TextField>
-                  <TextField fx:id="zDominioTextField1" disable="true" editable="false" layoutX="78.0" layoutY="1.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="z">
+                  <TextField fx:id="zIDominioTextField1" disable="true" editable="false" layoutX="78.0" layoutY="1.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="z">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
@@ -153,17 +153,17 @@
                         <Font name="Times New Roman" size="27.0" />
                      </font>
                   </Label>
-                  <TextField disable="true" editable="false" layoutX="18.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="x" fx:id="xDominioTextField11">
+                  <TextField disable="true" editable="false" layoutX="18.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="x" fx:id="xI2DominioTextField11">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
                   </TextField>
-                  <TextField fx:id="yDominioTextField11" disable="true" editable="false" layoutX="48.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="y">
+                  <TextField fx:id="yi2DominioTextField11" disable="true" editable="false" layoutX="48.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="y">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
                   </TextField>
-                  <TextField fx:id="zDominioTextField11" disable="true" editable="false" layoutX="78.0" layoutY="1.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="z">
+                  <TextField fx:id="zI2DominioTextField11" disable="true" editable="false" layoutX="78.0" layoutY="1.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="z">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
@@ -182,17 +182,17 @@
                         <Font name="Times New Roman" size="27.0" />
                      </font>
                   </Label>
-                  <TextField disable="true" editable="false" layoutX="18.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="x" fx:id="xDominioTextField21">
+                  <TextField disable="true" editable="false" layoutX="18.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="x" fx:id="xI3DominioTextField21">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
                   </TextField>
-                  <TextField fx:id="yDominioTextField21" disable="true" editable="false" layoutX="48.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="y">
+                  <TextField fx:id="yI3DominioTextField21" disable="true" editable="false" layoutX="48.0" layoutY="2.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="y">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
                   </TextField>
-                  <TextField fx:id="zDominioTextField21" disable="true" editable="false" layoutX="78.0" layoutY="1.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="z">
+                  <TextField fx:id="zI3DominioTextField21" disable="true" editable="false" layoutX="78.0" layoutY="1.0" prefHeight="26.0" prefWidth="26.0" promptText="x" text="z">
                      <font>
                         <Font name="Times New Roman Italic" size="14.0" />
                      </font>
@@ -206,7 +206,7 @@
             </Group>
          </children>
       </AnchorPane>
-      <TextField alignment="CENTER" disable="true" editable="false" layoutX="526.0" layoutY="109.0" prefHeight="27.0" prefWidth="33.0" promptText="x" style="-fx-background-color: white; -fx-border-color: black; -fx-background-radius: 20; -fx-border-radius: 10;" text="R" fx:id="xDominioTextField31">
+      <TextField fx:id="RImagemTextField31" alignment="CENTER" disable="true" editable="false" layoutX="526.0" layoutY="109.0" prefHeight="27.0" prefWidth="33.0" promptText="x" style="-fx-background-color: white; -fx-border-color: black; -fx-background-radius: 20; -fx-border-radius: 10;" text="R">
          <font>
             <Font name="Times New Roman Italic" size="14.0" />
          </font>
