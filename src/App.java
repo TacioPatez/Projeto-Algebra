@@ -11,10 +11,12 @@ public class App extends Application{
 
     @Override
     public void start(Stage arg0) throws Exception {
-        Parent root = FXMLLoader.load(getClass().getResource("FXMLMain.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("FXMLAll.fxml"));
         Scene scene = new Scene(root);
         arg0.setTitle("Transformação Linear - Domínio e Imagem");
         arg0.setScene(scene);
+        arg0.setResizable(false);
         arg0.show();
-    }  
+    }
+
 }
